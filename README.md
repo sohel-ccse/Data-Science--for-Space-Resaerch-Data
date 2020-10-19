@@ -1,5 +1,17 @@
 # Data-Science-for-Space-Resaerch
 
+#Space data Provider :
+
+National Aeronautics and Space Administration is an independent agency(NASA),
+-------------------
+European Space Agency (ESA),
+----------------------------
+Canadian Space Agency(CSA), 
+--------------------------
+Japan Aerospace Exploration Agency (JAXA),....
+---------------------------------------------------------------------------------------
+
+
 It’s been a year since I started working in the data science industry. Coming from an aerospace engineering background, it’s only natural that I’d look for ways of applying AI, more specifically machine learning to space technology.
 Historically, machine learning algorithms have been used in health monitoring of spacecraft, autonomous navigation, intelligent control systems and intelligent object detection for path navigation.
 --------------------------------
