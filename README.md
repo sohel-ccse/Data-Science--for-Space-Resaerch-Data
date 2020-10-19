@@ -13,11 +13,20 @@ Japan Aerospace Exploration Agency (JAXA),....
 Applications: Resaerch & Development ;Space exploration , Solar System, Earth Science, Public Health Environmental Science,Agriculture, Climate Change, natural Disasters,....................
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ========================================
+For better understanding:
 
+(*)https://www.kaggle.com/sohelranaccselab/top-100-hubble-telescope-imagesvisualiaztion
+
+(*)https://www.researchgate.net/profile/Sohel_Rana5/publications
+--------------------------------------------------------------------------------------------
 It’s been a year since I started working in the data science industry. Coming from an aerospace engineering background, it’s only natural that I’d look for ways of applying AI, more specifically machine learning to space technology.
-Historically, machine learning algorithms have been used in health monitoring of spacecraft, autonomous navigation, intelligent control systems and intelligent object detection for path navigation.
+
+Historically, machine learning algorithms have been used in 
+
+health monitoring of spacecraft, autonomous navigation, intelligent control systems and intelligent object detection for path navigation.
 --------------------------------
-In this post, two approaches aiding in predictive analysis will be discussed. The first is the model-driven approach, which consists of a mathematical model for each subsystem of a spacecraft to correct the system to always adhere to the norm of that model.
+
+Here, two approaches aiding in predictive analysis will be discussed. The first is the model-driven approach, which consists of a mathematical model for each subsystem of a spacecraft to correct the system to always adhere to the norm of that model.
 The second approach is to collect data about the environment and the internals of the spacecraft in order to actively optimise functioning using machine learning models that best guess the situation. This is the data-driven approach, it proves to be more adaptable.
 -----------------------------------------
 1. Health Monitoring of Spacecraft
