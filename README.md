@@ -16,9 +16,16 @@ Applications: Resaerch & Development ;Space exploration , Solar System, Earth Sc
 For better understanding:
 
 (*)https://www.kaggle.com/sohelranaccselab/top-100-hubble-telescope-imagesvisualiaztion
-
+----------
 (*)https://www.researchgate.net/profile/Sohel_Rana5/publications
+---------------
+(*)https://www.researchgate.net/publication/343219641_SPACE_Weather_Impacts_on_Earth_Climate_A_case_Study_With_Remote_Sensing_Data
 --------------------------------------------------------------------------------------------
+
+
+
+
+
 It’s been a year since I started working in the data science industry. Coming from an aerospace engineering background, it’s only natural that I’d look for ways of applying AI, more specifically machine learning to space technology.
 
 Historically, machine learning algorithms have been used in 
