@@ -22,7 +22,7 @@ For better understanding:
 (*)https://www.researchgate.net/publication/343219641_SPACE_Weather_Impacts_on_Earth_Climate_A_case_Study_With_Remote_Sensing_Data
 --------------------------------------------------------------------------------------------
 ===============================================
-
+Feature detection for planetary exploration:
 The geographical features of the surface of a planet tell us about its geological makeup and its historical significance. The geographical analysis of nearby planets is enabled by on-ground rovers sending back images to earth. This can constitute a large volume of redundant data. This process could be a lot more efficient if the rover had an onboard mechanism to analyse features and classify images in order of significance, following which it can decide the best next action.
 ------------------------
 
