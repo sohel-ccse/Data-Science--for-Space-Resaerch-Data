@@ -2,7 +2,7 @@
 
 #Space data Provider :
 
-National Aeronautics and Space Administration is an independent agency(NASA),
+National Aeronautics and Space Administration(NASA),
 -------------------
 European Space Agency (ESA),
 ----------------------------
