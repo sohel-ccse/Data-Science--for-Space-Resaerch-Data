@@ -52,3 +52,17 @@ An artificial neural network (ANN) inspired model for satellite navigation is pr
 The geographical features of the surface of a planet tell us about its geological makeup and its historical significance. The geographical analysis of nearby planets is enabled by on-ground rovers sending back images to earth. This can constitute a large volume of redundant data. This process could be a lot more efficient if the rover had an onboard mechanism to analyse features and classify images in order of significance, following which it can decide the best next action.
 Burl, M. C., & Wetzler, P. G.evaluate the performance of a few supervised machine learning algorithms such as support vector machine (SVM) and continuously scaled template models (CSTM) to detect craters. The trained algorithms are tested with the Viking Orbiter images of Mars. The SVM approach was found to be the most effective, being as accurate as humans classifying the photos. The authors suggest a novel implementation of SVM using fast fourier transforms and overlap-and-add technique which reduces the memory usage to 5% of the images size. This allows the algorithm to be run on memory constrained systems such as a spacecraft.
 ------------------------------------------------------------
+
+
+
+
+
+
+Let's talk about Data Science, AI, ML, DL,....
+===============================================
+#Machine Learning is part of Data Science. It depicts aspects of statistics and algorithms to work on the data generated and extracted from multiple resources. Most of the data get generated in huge amounts and it becomes tiresome for a data scientist to work on it. That is when Machine Learning comes into action. ML is the strength given to a system to learn and process data sets autonomously without human intervention. This is achieved through complex algorithms and techniques like regression, supervised clustering, naive Bayes and more.
+
+#Machine learning and statistics are elements of data science. The term learning in Machine Learning means that the programs depend on some data, used as a training set, to fine-tune some model or algorithm parameters. This includes many techniques such as regression, naive Bayes or supervised clustering. Data science is much more than machine learning though. Data, in data science, may or may not come from a machine or mechanical process (survey data could be manually collected, clinical trials involve a specific type of small data) and this task might have nothing to do with learning.
+
+Artificial intelligence (AI) is the simulation of human intelligence in machines. The machines are programmed to think and perform actions just like humans do. In this case, machines learn and solve problems through supervised, unsupervised, or reinforced learning. Machine Learning and Deep Learning fall under the purview of AI. Artificial Intelligence functions on massive amounts of data. Whether it’s through system matrix, web matrix, or social media, there’s no dearth of data about the market or the customers. All this acts as raw material for AI systems to make efficient decisions about marketing your product/service. Automating the marketing process helps in increasing sales - New-age marketing requires you to show those products to the customers that they want to see.
+
