@@ -13,7 +13,7 @@ Japan Aerospace Exploration Agency (JAXA),....
 Applications: Resaerch & Development ;Space exploration , Solar System, Earth Science, Public Health Environmental Science,Agriculture, Climate Change, natural Disasters,....................
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ========================================
-For better understanding:
+For better understanding:(My previous works)
 
 (*)https://www.kaggle.com/sohelranaccselab/top-100-hubble-telescope-imagesvisualiaztion
 ----------
@@ -21,6 +21,12 @@ For better understanding:
 ---------------
 (*)https://www.researchgate.net/publication/343219641_SPACE_Weather_Impacts_on_Earth_Climate_A_case_Study_With_Remote_Sensing_Data
 --------------------------------------------------------------------------------------------
+(*)https://www.researchgate.net/publication/343486421_Global_Warming_Impacts_on_Sea_Level_Rise_Ice_Melting_A_Case_Study_With_Remote_Sensing_SatelliteData
+-------------------
+(*)https://www.researchgate.net/publication/343685072_Application_of_Advance_Remote_Sensing_Satellite_Data_for_Global_Climate_Change_Impacts_on_Natural_Disasters_in_2020
+------------------------------------------------
+
+Some AI applications on Space :
 ===============================================
 Feature detection for planetary exploration:
 The geographical features of the surface of a planet tell us about its geological makeup and its historical significance. The geographical analysis of nearby planets is enabled by on-ground rovers sending back images to earth. This can constitute a large volume of redundant data. This process could be a lot more efficient if the rover had an onboard mechanism to analyse features and classify images in order of significance, following which it can decide the best next action.
