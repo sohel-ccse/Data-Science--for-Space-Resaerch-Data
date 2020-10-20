@@ -13,7 +13,7 @@ Japan Aerospace Exploration Agency (JAXA),....
 Applications: Resaerch & Development ;Space exploration , Solar System, Earth Science, Public Health Environmental Science,Agriculture, Climate Change, natural Disasters,....................
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ========================================
-For better understanding:(My previous works)
+For better understanding:(See my previous Research works)
 
 (*)https://www.kaggle.com/sohelranaccselab/top-100-hubble-telescope-imagesvisualiaztion
 ----------
