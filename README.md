@@ -32,6 +32,8 @@ Feature detection for planetary exploration:
 The geographical features of the surface of a planet tell us about its geological makeup and its historical significance. The geographical analysis of nearby planets is enabled by on-ground rovers sending back images to earth. This can constitute a large volume of redundant data. This process could be a lot more efficient if the rover had an onboard mechanism to analyse features and classify images in order of significance, following which it can decide the best next action.
 ------------------------
 
+(*)https://shafi-syed.medium.com/artificial-intelligence-applications-space-to-underwater-6b0391fe8b2c
+
 Historically, machine learning algorithms have been used in Space Research;
 #Health monitoring of spacecraft, autonomous navigation, intelligent control systems and intelligent object detection for path navigation,...............................
 ------------------------------------------------------------
