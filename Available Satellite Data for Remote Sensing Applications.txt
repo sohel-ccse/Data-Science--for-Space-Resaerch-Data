@@ -1,0 +1,82 @@
+Available Satellite Data for top 10  Remote Sensing Applications: Society and Environment
+
+
+(1)COVID-19 and its impact on environment: Improved pollution levels during the lockdown period – A case from Dhaka City, BD or BD
+Data: Sentinel 5P- ESA
+
+(2)Monitoring Land Cover Changes in the Tropical High Forests using Random Forest ML Algorithm (SAR & Multi-Spectral Mixed data) 
+Data: MODIS-NASA, Sentinel 1->SAR-ESA
+
+
+(3)"Performance of different machine learning algorithms on satellite image classification in rural and urban setup: A case study of Dhaka"
+Data: MODIS-NASA
+
+(4)"Determining soil moisture content using passive sensors from space"
+Data: Modis, NOAA-> NASA
+
+->it explains Earth’s water cycle, weather forecasting, drought, and floods
+
+(5) "Quantifying crop conditions with Normalized Difference Vegetation Index (NDVI)"
+Data:MODIS-NASA
+
+->The global food supply is being monitored with satellite imagery and the Normalized Difference Vegetation Index (NDVI).
+ Near-infrared radiation is being used to detect healthy vegetation in agriculture.
+Healthy vegetation reflects green light and absorbs red and blue light.
+The green light that our eyes see is chlorophyll created by plants during photosynthesis.
+Chlorophyll will reflect more light in the green and near-infrared spectrum compared to other wavelengths.
+This is why near-infrared radiation in combination with NDVI is 
+one of the primary remote sensing applications in agriculture and the environment.
+
+(6)"Observing population growth in urban areas using land use change"
+Data: Modis-NASA, Sentinel 1-ESA
+
+
+(7)"Measuring the rise of sea levels using Satellite Data"
+Data: NOAA,NASA
+
+(8) "Comparing climatic factors from past to present"
+Data: NASA
+->understanding the state of our climate has immeasurable importance.
+NASA is mapping different climate factors on a monthly basis to see 
+how much these variables change in Global Time-Series Climate Maps. Through this lens, 
+climate variables like carbon monoxide, chlorophyll, 
+and aerosol size are being mapped as a function of time.
+ Remote sensing satellites include MODIS, CERES, AMSR-E, TRMM, and MOPITT. 
+Never in our history have we understood Earth’s climate as we do today.
+
+
+(9)"Tracking hazards for better response and recovery"
+
+Data: NOAA,NASA
+
+->There’s been a clear upward trend in the number of disasters over the years.
+ This means better preparedness for mitigation as well as response and recovery. 
+The integration of Earth observation data and GIS in hazard 
+situations has become the main tool in disaster management. Remote sensing applications 
+for hazards include assessing the extent of damage and assisting dispatch.
+
+(10) "Ocean Condition Monitoring using Satellite Data"
+Data: NOAA,MODIS-> NASA
+
+------------------------->
+
+Near Real Time Monitoring:
+
+(*) "Natural Disasters Alert and Mapping with RS Data"
+Data: NASA, ESA
+
+->Flood, Volcanos,Strom, landslides,Earth Quack,Wildfires,Disease Outbreaks,....
+
+
+(*)Space Weather Prediction Center & Monitoring
+Data: NOAA, NASA
+
+(*)"Near Real time Hurricanes and Tropical Cyclones Analysis & Prediction"
+
+Data: NOAA, NASA
+------------>
+
+
+
+
+
