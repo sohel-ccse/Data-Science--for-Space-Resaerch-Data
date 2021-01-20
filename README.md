@@ -5,10 +5,7 @@
 National Aeronautics and Space Administration(NASA),
 -------------------
 European Space Agency (ESA),
-----------------------------
-Canadian Space Agency(CSA), 
---------------------------
-Japan Aerospace Exploration Agency (JAXA),....
+
 ---------------------------------------------------------------------------------------
 Applications: Research & Development ;Space exploration , Solar System, Earth Science, Public Health Environmental Science,Agriculture, Climate Change, natural Disasters,....................
 -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -20,13 +17,7 @@ For better understanding:(See my previous Research works)
 (*)https://www.kaggle.com/sohelranaccselab/top-100-hubble-telescope-imagesvisualiaztion
 ----------
 (*)https://www.researchgate.net/profile/Sohel_Rana5/publications
----------------
-(*)https://www.researchgate.net/publication/343219641_SPACE_Weather_Impacts_on_Earth_Climate_A_case_Study_With_Remote_Sensing_Data
---------------------------------------------------------------------------------------------
-(*)https://www.researchgate.net/publication/343486421_Global_Warming_Impacts_on_Sea_Level_Rise_Ice_Melting_A_Case_Study_With_Remote_Sensing_SatelliteData
--------------------
-(*)https://www.researchgate.net/publication/343685072_Application_of_Advance_Remote_Sensing_Satellite_Data_for_Global_Climate_Change_Impacts_on_Natural_Disasters_in_2020
-------------------------------------------------
+
 
 Some AI applications on Space :
 ===============================================
