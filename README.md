@@ -9,8 +9,7 @@ European Space Agency (ESA),
 ---------------------------------------------------------------------------------------
 Applications: Research & Development ;Space exploration , Solar System, Earth Science, Public Health Environmental Science,Agriculture, Climate Change, natural Disasters,....................
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-========================================
-(*)2nd Folders for Space & Earth Science : https://github.com/sohel-ccse/Earth-And-Space-Research-for-Natural-Disasters-Using-Advance-Remote-Sensing-Satellite-Data-
+
 
 For better understanding:(See my previous Research works)
 
